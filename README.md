@@ -178,8 +178,8 @@ Figures below come directly from the notebook outputs.
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/channabasva-raga/supply-chain-analytics/tree/main
+   cd supply-chain-analytics
    ```
 
 2. **Install Python dependencies**
